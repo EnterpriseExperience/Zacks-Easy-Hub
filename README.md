@@ -3,4 +3,5 @@
 # [2] Adding More Games Soon (Being worked on currently)
 # [3] Adding support for many executors (to come, if applicable)
 
-# Loadstring: loadstring(game:HttpGet('https://raw.githubusercontent.com/EnterpriseExperience/Zacks-Easy-Hub/main/hub.lua'))()
+# Loadstring: 
+`loadstring(game:HttpGet('https://raw.githubusercontent.com/EnterpriseExperience/Zacks-Easy-Hub/main/hub.lua'))()`
