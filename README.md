@@ -4,4 +4,4 @@
 # [3] Adding support for many executors (to come, if applicable)
 
 # Loadstring: 
-`loadstring(game:HttpGet('https://raw.githubusercontent.com/EnterpriseExperience/Zacks-Easy-Hub/main/hub.lua'))()`
+`loadstring(game:HttpGet('https://raw.githubusercontent.com/EnterpriseExperience/Zacks-Easy-Hub/main/Hub.lua'))()`
