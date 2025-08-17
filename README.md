@@ -1,4 +1,5 @@
 ### DO NOT USE THIS REPOSITORY ANYMORE!
 
 THE OFFICIAL NEW AND IMPROVED FLAMES HUB IS HERE:
-[GO HERE INSTEAD!](https://github.com/EnterpriseExperience/MicUpSource)
+
+[HERE!](https://github.com/EnterpriseExperience/MicUpSource)
